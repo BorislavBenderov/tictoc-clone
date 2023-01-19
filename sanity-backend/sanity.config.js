@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'sanity-backend',
 
-  projectId: 'eb73i01f',
+  projectId: 'swoufzv4',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
